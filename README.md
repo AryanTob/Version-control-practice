@@ -6,7 +6,7 @@ This is the README.md file
 + item 2
 + item 3
 
-
+Another change
 
 Practicing version control
 
